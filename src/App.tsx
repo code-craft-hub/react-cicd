@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Car and React logos to learn more
+        Click on the Car and React Car to learn more
       </p>
     </>
   )

@@ -17,12 +17,14 @@ function App() {
         </a>
       </div>
       <h1>Car</h1>
+      <h1>Main application</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
           Edit <code>src/Car.tsx</code> and save to test Car
+          Edit <code>src/App.tsx</code> and save to test HMR push to cars
         </p>
       </div>
       <p className="read-the-docs">
